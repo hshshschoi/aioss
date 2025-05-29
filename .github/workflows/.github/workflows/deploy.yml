@@ -34,3 +34,4 @@ jobs:
         slot-name: Production
         publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE }}
         package: app.zip
+ # 배포 용도
